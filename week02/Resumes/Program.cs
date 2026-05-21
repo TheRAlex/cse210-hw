@@ -32,7 +32,7 @@ class Program
         resume1._jobs.Add(job1);
         resume1._jobs.Add(job2);
 
-        resume1.Display();
+        resume1.Display();  
 
     }    
 }
